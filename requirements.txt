@@ -5,3 +5,5 @@ seaborn
 jupyter
 scikit-learn
 scipy
+plotly
+sentence_transformers
